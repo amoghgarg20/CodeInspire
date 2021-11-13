@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+body{
+    background-color: #F78812;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.heading{
+    text-align: center;
+    font-weight: 900;
+    padding: 10px;
+    margin: 5px;
+    color: #51050F;
+}
+.accordion{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.accordion-button{
+    background-color: #51050F;
+    color: #F78812;
+}
+.accordion-item{
+    background-color: #51050F;
+    color: #F78812;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    padding: 3px;
+}
