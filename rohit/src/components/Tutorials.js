@@ -12,7 +12,7 @@ const Tutorials = () => {
   
           <div class="row" data-aos="fade-up">
             <div class="col-md-5">
-            <iframe width="645" height="363" src="https://www.youtube.com/embed/r-yYGTJY92g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe width="645" height="363" src="https://www.youtube.com/embed/r-yYGTJY92g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;  gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
             <div class="col-md-7 pt-4">
               <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
