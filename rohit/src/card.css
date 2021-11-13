@@ -1,0 +1,21 @@
+/* img{
+    align-items: center;
+} */
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    
+}
+.col:hover{
+    /* box-shadow: 1px 1px; */
+    transform:scale(1.05);
+    cursor: pointer;
+}
+.col{
+    margin-bottom: 20px;
+    transition: 0.3s;
+}
+#arrange{
+    margin:20px;
+}

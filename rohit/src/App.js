@@ -7,7 +7,7 @@ import 'aos/dist/aos.css';
 import 'bootstrap-icons/font/bootstrap-icons.css'
 import HelplinePortal from './components/HelplinePortal';
 import LanguageState from './Context/LanguageContext/LanguageContext';
-
+import Card from './components/Products';
 
 
 function App() {
@@ -22,6 +22,8 @@ function App() {
    <LanguageState>
    <ImageCarousel/>
    <Tutorials/>
+{/* editted */}
+   <Card/>
 
    <HelplinePortal/>
    </LanguageState>

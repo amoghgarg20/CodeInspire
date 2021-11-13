@@ -1,0 +1,21 @@
+/* .embeddedMap{
+    width:20px;
+    height:20px;
+} */
+/* .map{
+    width:50%;
+
+}
+.info{
+    width:50%;
+} */
+.contact{
+    display:flex;
+    flex-direction: column;
+}
+.footer{
+    position:absolute;
+}
+/* #icons {
+    padding:100px;
+} */
