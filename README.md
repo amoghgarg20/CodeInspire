@@ -1,8 +1,8 @@
 # CodeInspire
-##About the Project
-####This project is an initiative to help village women to become technologically sound and self dependent individuals and add to the progress of our nation.
+## About the Project
+#### This project is an initiative to help village women to become technologically sound and self dependent individuals and add to the progress of our nation.
 
-##Tech Stack
+## Tech Stack
 HTMl
 CSS
 JavaScript
@@ -11,7 +11,7 @@ BootStrap
 PHP
 
 
-##Functionalities
+## Functionalities
 ->Account with Login and Logout features.
 ->User can be buyer as well as a seller.
 ->Products displayed on the page which can be added to your cart to be bought later with the payment features added.
@@ -22,8 +22,8 @@ PHP
 
 
 
-##Inspirathon Project
-####Steps to run the website locally:
+## Inspirathon Project
+#### Steps to run the website locally:
   1. Clone this repository on your system.
   2. Go to 'src' directory and open App.js on VScode.
   3. Write npm start in the terminal. The website will run.
