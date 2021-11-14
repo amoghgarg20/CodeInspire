@@ -12,13 +12,13 @@
 
 
 ## Functionalities
-*Account with Login and Logout features.
-*User can be buyer as well as a seller.
-*Products displayed on the page which can be added to your cart to be bought later with the payment features added.
-*Translation of website from English to regional language.
-*Feedback and Signup forms where the details entered can be stored in the database.
-*Tutorial links to teach Technological advancements and employement opportunities
-*A platform where even the villagers can teach thier art to other villagers and help them become financially-independent individuals.
+* Account with Login and Logout features.
+* User can be buyer as well as a seller.
+* Products displayed on the page which can be added to your cart to be bought later with the payment features added.
+* Translation of website from English to regional language.
+* Feedback and Signup forms where the details entered can be stored in the database.
+* Tutorial links to teach Technological advancements and employement opportunities
+* A platform where even the villagers can teach thier art to other villagers and help them become financially-independent individuals.
 
 
 
