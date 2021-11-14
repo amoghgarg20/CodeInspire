@@ -3,22 +3,22 @@
 #### This project is an initiative to help village women to become technologically sound and self dependent individuals and add to the progress of our nation.
 
 ## Tech Stack
-HTMl
-CSS
-JavaScript
-ReactJS
-BootStrap
-PHP
+##### HTMl
+##### CSS
+##### JavaScript
+##### ReactJS
+##### BootStrap
+##### PHP
 
 
 ## Functionalities
-->Account with Login and Logout features.
-->User can be buyer as well as a seller.
-->Products displayed on the page which can be added to your cart to be bought later with the payment features added.
-->Translation of website from English to regional language.
-->Feedback and Signup forms where the details entered can be stored in the database.
-->Tutorial links to teach Technological advancements and employement opportunities
-->A platform where even the villagers can teach thier art to other villagers and help them become financially-independent individuals.
+1>Account with Login and Logout features.
+2>User can be buyer as well as a seller.
+3>Products displayed on the page which can be added to your cart to be bought later with the payment features added.
+4>Translation of website from English to regional language.
+5>Feedback and Signup forms where the details entered can be stored in the database.
+6>Tutorial links to teach Technological advancements and employement opportunities
+7>A platform where even the villagers can teach thier art to other villagers and help them become financially-independent individuals.
 
 
 
