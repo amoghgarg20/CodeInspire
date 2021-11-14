@@ -1,21 +1,22 @@
 import React from 'react'
+import Cart from './Cart'
 
-const CartItem = () => {
+const CartItem = ({item}) => {
     return (
         <div className="cartitem" data-aos = "fade-up">
                     <div className="cart-product">
                         <div className="cart-p-image">
-                            <img src={'https://cdn.shopify.com/s/files/1/0030/9759/1872/products/EL-003-246_A_1024x1024@2x.jpg?v=1633760247'} alt="" />
+                            <img src={item.img} alt="" />
                         </div>
                         <div className="cart-p-det">
-                            <p className ="cart-p-name">'Conical Ivory' Handcrafted Table Lamp In Mango Wood (13 Inch)</p>
-                            <p className="cart-p-price">₹ <span>1649</span>.00</p>
+                            <p className ="cart-p-name">{item.name}</p>
+                            <h4 class='card-title'><span  class = "text-muted text-decoration-line-through">Rs. {item.exPrice}</span> Rs.{item.Price}</h4>
                             </div>
                     </div>
                     <div className="cart-quantity">
 
                         <form >
-                        <input type="number" value="1" />
+                        <input type="number" value={item.quantity}  />
                         </form>
                     </div>
                     <div className="cart-remove">
