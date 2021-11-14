@@ -12,7 +12,8 @@
 
 
 ## Functionalities
-* Account with Login and Logout features.
+* Account with Login and Logout features for our old users.
+* Sign-Up for new users.
 * User can be buyer as well as a seller.
 * Products displayed on the page which can be added to your cart to be bought later with the payment features added.
 * Translation of website from English to regional language.
