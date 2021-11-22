@@ -25,12 +25,15 @@
 
 ## Inspirathon Project
 #### Steps to run the website locally:
-  1. Clone this repository on your system.
-  2. Go to 'src' directory and open App.js on VScode.
-  3. Write npm start in the terminal. The website will run.
-  4. Make sure npm and Node.js is installed on your system.
+  1. Clone or download this repository on your system.
+  2. Make sure npm and Node.js is installed on your system.
+  3. Open the terminal and write "npm install" to install all the dependencies.
+  4. Write "npm start" in the terminal. The website will run.
   5. All the source code is present in the 'src' directory.
   6. Source code of various components is present inside 'Components' directory.
+
+## deployed link to our website:
+https://helpwomen.netlify.app/
 
 ## Video link to our website:
 https://drive.google.com/file/d/1StX8_F9I7YRBZb4U53hHHJaQZGFmGs-Z/view?usp=sharing
