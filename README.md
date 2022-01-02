@@ -32,7 +32,7 @@
   5. All the source code is present in the 'src' directory.
   6. Source code of various components is present inside 'Components' directory.
 
-## deployed link to our website:
+## Deployed link to our website:
 https://helpwomen.netlify.app/
 
 ## Video link to our website:
